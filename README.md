@@ -248,11 +248,11 @@ The shell script `/script/setup` will automatically download these files into th
 
 The s3 links follow this pattern:
 
-> https://s3.amazonaws.com/code-search-net/CodeSearchNet/v2/{python,java,go,php,javascript,ruby}.zip
+> https://zenodo.org/record/7857872/files/{python,java,go,php,javascript,ruby}.zip
 
 For example, the link for the `java` is:
 
-> https://s3.amazonaws.com/code-search-net/CodeSearchNet/v2/java.zip
+> https://zenodo.org/record/7857872/files/java.zip
 
 The size of the dataset is approximately 20 GB.  The various files and the directory structure are explained [here](resources/README.md).
 
